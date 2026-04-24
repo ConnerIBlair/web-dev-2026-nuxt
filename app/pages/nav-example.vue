@@ -1,0 +1,9 @@
+ <template>
+ <UMain>
+ <TopNav/>
+ <MainNav/>
+ <Hero/>
+ <Cta/>
+ <Footer/>
+</Umain>
+</template>
